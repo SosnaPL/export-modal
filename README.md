@@ -1,17 +1,20 @@
-https://genshinapps.netlify.app/
+# Export Modal
 
-Fan made Genshin Impact calculator that I'm working on after work.
+###
+Hosted here: https://export-modal.netlify.app/
 
-Working on:
+### Local Hosting
+1. Install node.js 12.14.1
 
-Calculating overall dmg
-Stats details
-Individual calculations for each character
-Buffs tab
-
-Done:
-
-Character talents
-Character levels
-Weapons details
-Artifacts statistics
+2. Clone the repository.
+   ```sh
+   git clone https://github.com/SosnaPL/export-modal.git
+   ```
+3. Install modules
+   ```sh
+   npm install
+   ```
+4. Run
+   ```sh
+   npm start
+   ```
